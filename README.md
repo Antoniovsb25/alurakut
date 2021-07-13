@@ -1,4 +1,4 @@
-Projeto de recriação da página do orkut, feita durante a semana de imersão React da Alura.
+# Projeto de recriação da página do orkut, feita durante a semana de imersão React da Alura.
 
 
 # Example app with styled-components
